@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevitAddinBootcamp", "RevitAddinBootcamp.csproj", "{DE8CC7BA-A6F4-477F-B1AB-7A313A2B262A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE8CC7BA-A6F4-477F-B1AB-7A313A2B262A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE8CC7BA-A6F4-477F-B1AB-7A313A2B262A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE8CC7BA-A6F4-477F-B1AB-7A313A2B262A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE8CC7BA-A6F4-477F-B1AB-7A313A2B262A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECD6C9F8-3563-40FD-A2DC-32A97D16F92F}
+	EndGlobalSection
+EndGlobal

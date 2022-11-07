@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command RevitAddinBootcamp</Text>
+    <Description>Some description for RevitAddinBootcamp</Description>
+    <Assembly>RevitAddinBootcamp.dll</Assembly>
+    <FullClassName>RevitAddinBootcamp.Command</FullClassName>
+    <ClientId>a54b1754-d328-42fc-a5cd-6b216e52d36f</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>FizzBuzz</Text>
+    <Description>Some description for RevitAddinBootcamp</Description>
+    <Assembly>RevitAddinBootcamp.dll</Assembly>
+    <FullClassName>RevitAddinBootcamp.CmdFizzBuzz</FullClassName>
+    <ClientId>a54b1754-d987-42fc-a5cd-6b216e52d36f</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application RevitAddinBootcamp</Name>
+    <Assembly>RevitAddinBootcamp.dll</Assembly>
+    <FullClassName>RevitAddinBootcamp.App</FullClassName>
+    <ClientId>ac945519-42fb-40f1-b42c-629f0b6b2d96</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
